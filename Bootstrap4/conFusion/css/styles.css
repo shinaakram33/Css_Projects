@@ -1,0 +1,19 @@
+.row-header{
+  margin: 0px auto;
+  padding: 0px auto;
+}
+
+.row-content{
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+.footer{
+  background-color: gray;
+  margin: 0px auto;
+  padding: 20px 10px 5px 10px;
+}
+.jumbotron{
+  text-color: floralwhite;
+  background-color: #9239db;
+}
